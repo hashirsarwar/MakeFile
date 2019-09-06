@@ -1,0 +1,3 @@
+mkdir os 
+mkdir ./os/sectionA
+touch ./os/sectionA/LabResult.txt
